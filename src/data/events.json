@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Festival de Gastronomia Local",
+    "body": "Venha experimentar o melhor da culinária da nossa região. Entrada gratuita.",
+    "date": "13/10/2026",
+    "location": "Praça Central"
+  },
+    {
+    "id": 2,
+    "title": "Concerto: Sob as Estrelas",
+    "body": "Uma noite inesquecível com a orquestra sinfônica local apresentando o melhor de Beethoven e      Mozart.",
+    "date": "15/08/2026",
+    "location": "Teatro Municipal"
+  },
+  {
+    "id": 3,
+    "title": "Caminhada Ecológica",
+    "body": "Trilha guiada pelo Parque Estadual com foco em preservação ambiental.",
+    "date": "25/02/2026",
+    "location": "Entrada do Parque"
+  },
+  {
+  "id": 4,
+  "title": "Anime Fest EventUp 2026",
+  "body": "O maior encontro geek da região! Concurso de Cosplay, torneio de Card Games e  feira de artistas locais. Venha celebrar a cultura pop conosco.",
+  "date": "20/03/2026",
+  "location": "Centro Cultural Municipal"
+}
+]
